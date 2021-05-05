@@ -1,5 +1,5 @@
 # Modeling-and-simulation-of-car-control
-This project is a physics simulation to a car response in differents situation and forces. 
+This project is a physics simulation to a car response in differents situation and forces made with Matlab and Simulink. 
 
 This is the code of my Final Degree Project (TFG) done in 2018 to the Physics Degree at the Complutense University of Madrid (UCM), To find out how to obtain the ordinary differential equation (ODE) read the project paper (https://www.academia.edu/42824481/MODELADO_Y_SIMULACION_DE_CONTROL_DE_UN_COCHE?source=swp_share)
 
